@@ -1,1 +1,0 @@
-to start ur image logger open startup file and then neptune.py
